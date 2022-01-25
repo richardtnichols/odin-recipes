@@ -1,1 +1,1 @@
-# odin-recipes
+I don't really know what to put right here at the moment! I think this will likely become a repo of the very basic html skills that I've learned over the course of the Foundations course on theodinproject.org. We'll see how that goes!
